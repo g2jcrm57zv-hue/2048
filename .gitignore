@@ -2,3 +2,5 @@
 out/
 *.class
 *.jar
+.DS_Store
+*.iml
