@@ -6,6 +6,7 @@ A Java-based core engine for the classic 2048 puzzle game. This project focuses 
 ## Tech Stack
 * Language: Java 1.8+
 * Testing: JUnit 4
+* External Dependencies: library-sp24/ (includes core rendering libraries, JUnit testing components, and other necessary third-party dependencies)
 * Development Methodology: Test-Driven Development (TDD)
 * Design Pattern: MVC-based Logic Separation
 
